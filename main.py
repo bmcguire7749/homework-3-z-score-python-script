@@ -105,7 +105,7 @@ def z_score(x, mu, sigma):
   Returns the z-score of x
   """
 
-  # Participating group member names go in this comment              
+  # Participating group member names go in this comment: Brandon McGuire, Evan Haught, Muntaha Mostafa Abugrain              
 
   # Your code goes between this comment and the return statement
   z = (x - mu) / sigma
